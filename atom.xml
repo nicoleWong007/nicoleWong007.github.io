@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NICOLE-Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-06-26T12:58:27.752Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Nicole Wong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/06/26/hello-world/"/>
+    <id>http://yoursite.com/2019/06/26/hello-world/</id>
+    <published>2019-06-26T12:06:57.947Z</published>
+    <updated>2019-06-26T12:58:27.752Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is my very first post. </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This is my very first post. &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
